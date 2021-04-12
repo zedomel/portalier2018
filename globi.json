@@ -1,0 +1,50 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "https://datadryad.org/stash/downloads/file_stream/80937",
+    "dcterms:bibliographicCitation" : "Portalier, Sebastien; Fussmann, Gregor; Loreau, Michel; Cherif, Mehdi (2018), Data from: The mechanics of predator-prey interactions: first principles of physics predict predator-prey size ratios, Dryad, Dataset, https://doi.org/10.5061/dryad.8c40mb0",
+    "delimiter" : ",",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002439",
+    "interactionTypeName": "preysOn",
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "In.ref.ID",
+        "titles" : "In.ref.ID",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "TaxonomyPredator",
+        "datatype" : "string"
+      }, {
+        "name" : "CommonNamePredator",
+        "titles" : "CommonNamePredator",
+        "datatype" : "string"
+      }, {
+        "name" : "MassPredator_kg",
+        "titles" : "MassPredator_kg",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "TaxonomyPrey",
+        "datatype" : "string"
+      }, {
+        "name" : "CommonNamePrey",
+        "titles" : "CommonNamePrey",
+        "datatype" : "string"
+      }, {
+        "name" : "MassPrey_kg",
+        "titles" : "MassPrey_kg",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
