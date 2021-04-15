@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/portalier2018.svg)](https://travis-ci.com/portalier2018) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:portalier2018)](http://globalbioticinteractions.org/?accordingTo=globi:portalier2018)
+[![Build Status](https://travis-ci.com/zedomel/portalier2018.svg)](https://travis-ci.com/zedomel/portalier2018) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:zedomel/portalier2018)](https://globalbioticinteractions.org/?accordingTo=globi:zedomel/portalier2018)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
