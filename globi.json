@@ -8,7 +8,7 @@
       "@language" : "en"
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-    "url" : "https://datadryad.org/stash/downloads/file_stream/80937",
+    "url" : "https://datadryad.org/stash/downloads/file_stream/80047",
     "dcterms:bibliographicCitation" : "Portalier, Sebastien; Fussmann, Gregor; Loreau, Michel; Cherif, Mehdi (2018), Data from: The mechanics of predator-prey interactions: first principles of physics predict predator-prey size ratios, Dryad, Dataset, https://doi.org/10.5061/dryad.8c40mb0",
     "delimiter" : ",",
     "headerRowCount" : 1,
